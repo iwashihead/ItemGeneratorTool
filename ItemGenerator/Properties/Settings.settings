@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ItemGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test1234</Value>
+    </Setting>
+    <Setting Name="PATH_ICON_TEXTURE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data\\icon.png</Value>
+    </Setting>
+    <Setting Name="CONFIRM_DELETE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ICON_WIDTH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="ICON_HEIGHT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ENCRYPTION_ENABLE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PATH_DATA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data\\</Value>
+    </Setting>
+    <Setting Name="EOF_ITEM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__EOF_ITEM__</Value>
+    </Setting>
+    <Setting Name="EOF_WEAPON" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__EOF_WEAPON__</Value>
+    </Setting>
+    <Setting Name="EOF_ARMOR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__EOF_ARMOR__</Value>
+    </Setting>
+    <Setting Name="EOF_ACCE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__EOF_ACCE__</Value>
+    </Setting>
+    <Setting Name="EOF_MATERIAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__EOF_MATERIAL__</Value>
+    </Setting>
+    <Setting Name="SOF_ITEM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__ITEM__</Value>
+    </Setting>
+    <Setting Name="SOF_WEAPON" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__WEAPON__</Value>
+    </Setting>
+    <Setting Name="SOF_ARMOR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__ARMOR__</Value>
+    </Setting>
+    <Setting Name="SOF_ACCE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__ACCE__</Value>
+    </Setting>
+    <Setting Name="SOF_MATERIAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">__MATERIAL__</Value>
+    </Setting>
+    <Setting Name="Setting1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
